@@ -1,2 +1,2 @@
 # Hyland-Sarathi
-Refer ppt,concept and demo video for details
+Refer concept and demo video for details
